@@ -15,7 +15,9 @@ Uso de geogebra y latex.
 
 * me gusta leer 
 
-* me gusta patinar 
+* me gusta patinar
+
+  
 ***
 
 esta soy yo :) 
