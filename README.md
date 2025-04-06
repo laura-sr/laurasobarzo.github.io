@@ -1,7 +1,6 @@
 # laurasobarzo.github.io
+## Antecedentes Academicos 
 
-# about me :) 
-me gusta leer 
 ### Estudiante de Licenciatura en Matemáticas - Universidad Católica de Valparaíso (último año).
 
 ### **Habilidades:**
@@ -9,6 +8,14 @@ Lenguajes de programación: python y matlab.
 
 Uso de geogebra y latex.
 
+
+***
+
+## about me :) 
+
+* me gusta leer 
+
+* me gusta patinar 
 ***
 
 esta soy yo :) 
